@@ -1,4 +1,4 @@
-# Job-Tracking-App
+# Job-Tracking-Website
 An online job tracking software streamlining an applicant in tracking his/her progress during the job search process. Helps the user in tracking the number of pending, interview and declined applications.
 It's main functionalities include : 
 - Login/Register user utilizing JWT Authentication and Authorization.
