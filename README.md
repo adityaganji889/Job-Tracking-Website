@@ -15,7 +15,7 @@ It's main functionalities include :
 - Made use of global context using createContext and utilized useContext hook. Established a global state using useReducer hook. Rendering global Alert component.
 - Logout option.
 - Tech Stack Used :
-  - Frontend : HTML-5, Normalized-CSS, Javascript ES-6, React.js, Recharts.
+  - Frontend : HTML-5, Normalized-CSS, Javascript ES-6, React.js, React-createContext, Recharts.
   - Backend :  Node.js, Express.js, JWT, Mongoose, MongoDB.
   
 Implementation Video : https://drive.google.com/file/d/19GigAolCNRCqLZOkHB2Lkd3w-ClCEu47/view?usp=sharing
